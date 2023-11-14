@@ -222,3 +222,5 @@ pub fn ui(f: &mut Frame, app: &mut App) {
   f.render_widget(bottom_bar, chunks[1])
 }
 ```
+## Result
+![Result](https://github.com/shacaranda/ratatui-study/assets/8787660/a91eee90-4dbc-4da3-8d5b-c9e736aa99d3)
