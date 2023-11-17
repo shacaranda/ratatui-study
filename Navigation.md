@@ -1,10 +1,12 @@
 ## Structure
+```
 src --- main.rs
      +- model.rs
      +- ui.rs
      +- ui --- sub1.rs
             +- sub2.rs
             +- sub3.rs
+```
 ## main.rs
 ``` rust
 mod ui;
